@@ -1,0 +1,9 @@
+package com.rewriterurl.demo;
+
+import javax.servlet.http.HttpServlet;
+@WebServlet("/dashboard")
+public class Dashboard extends HttpServlet {
+	
+	
+
+}

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<a href="dashboard">without user</a>
+<a href="dashboard?username=kajol">with user</a>
+</body>
+</html>

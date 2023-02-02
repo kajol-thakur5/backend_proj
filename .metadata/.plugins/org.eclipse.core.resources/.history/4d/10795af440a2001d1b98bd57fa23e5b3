@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="rewriteurl">
+        <property name="context-root" value="rewriteurl"/>
+        <property name="java-output-path" value="/rewriteurl/build/classes"/>
+    </wb-module>
+</project-modules>

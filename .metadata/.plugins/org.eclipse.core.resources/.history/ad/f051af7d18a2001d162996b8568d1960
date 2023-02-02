@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h1>Cookie Example</h1><br>
+
+<a href="login?userid='kavya'">Access with cookie</a><br>
+
+<a href="dashboard">Access without cookie</a><br>
+</body>
+</html>
